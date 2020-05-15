@@ -1,1 +1,1 @@
-# This Is a Library of Useful JS Functions
+# This is a Library of Useful JS Functions
